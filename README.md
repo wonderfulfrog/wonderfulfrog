@@ -16,6 +16,7 @@ Want to know what I'm doing _right now_? Check out my [now page][now]!
 ![Memories of days gone by...](/assets/netscapenow30.gif)
 ![I love the GameBoy!](/assets/gameboy.png)
 ![... and the GameBoy Color!](/assets/gbcolor.png)
+![and my personal favourite the GameBoy Advance!](/assets/gbadvance.png)
 
 [wonderfulfrog]: https://wonderfulfrog.com
 [now]: https://wonderfulfrog.com/now
