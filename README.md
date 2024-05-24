@@ -12,11 +12,11 @@ If you'd like to learn more about me, check out [my website][wonderfulfrog].
 
 Want to know what I'm doing _right now_? Check out my [now page][now]!
 
-![I love neovim!](/assets/neovim.gif)
-![Memories of days gone by...](/assets/netscapenow30.gif)
-![I love the GameBoy!](/assets/gameboy.png)
-![... and the GameBoy Color!](/assets/gbcolor.png)
-![and my personal favourite the GameBoy Advance!](/assets/gbadvance.png)
+[![I love neovim!](/assets/neovim.gif "I love neovim!")](https://neovim.io/)
+[![Memories of days gone by...](/assets/netscapenow30.gif "Memories of days gone by...")](https://en.wikipedia.org/wiki/Netscape_Navigator)
+[![I love the Game Boy!](/assets/gameboy.png "I love the GameBoy!")](https://en.wikipedia.org/wiki/Game_Boy)
+[![... and the Game Boy Color!](/assets/gbcolor.png "and also the GameBoy Color!")](https://en.wikipedia.org/wiki/Game_Boy_Color)
+[![and my personal favourite the GameBoy Advance!](/assets/gbadvance.png "but my personal favourite is the Game Boy Advance!")](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
 [wonderfulfrog]: https://wonderfulfrog.com
 [now]: https://wonderfulfrog.com/now
