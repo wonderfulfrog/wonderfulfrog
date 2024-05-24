@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! Ahoj! 👋
 
-<!--
-**wonderfulfrog/wonderfulfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Devin. I'm a creative developer in British Columbia, Canada. I specialize in the front of the frontend. I love working with design systems and motion.
 
-Here are some ideas to get you started:
+I've been working professionally as a frontend developer for over 10 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I love music, gaming, accessibility, neovim, home DIY, and reading - to name a few hobbies.
+
+If you'd like to learn more about me, check out [my website][wonderfulfrog].
+
+Want to know what I'm doing _right now_? Check out my [now page][now]!
+
+[wonderfulfrog]: https://wonderfulfrog.com
+[now]: https://wonderfulfrog.com/now
